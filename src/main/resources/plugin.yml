@@ -1,3 +1,0 @@
-name: APIManager
-version: '${project.version}'
-main: xyz.mlserver.apimanager.APIManager
